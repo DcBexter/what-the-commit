@@ -23,7 +23,7 @@
 
 <idea-plugin version="2">
     <id>com.eclectide.intellij.whatthecommit</id>
-    <name>What The Commit</name>
+    <name>What The Commit HTTPS</name>
     <version>1.1</version>
     <vendor email="darekkay@eclectide.com" url="http://www.eclectide.com">Eclectide</vendor>
 
